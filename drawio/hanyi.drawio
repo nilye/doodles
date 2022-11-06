@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T17:35:34.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uxF053N8PVHjJo-AJq3a" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-06T17:36:51.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="j9qioPWT3utLUpst5fN0" version="20.5.1" type="github">
   <diagram id="xSAO6G4iO3-gwYTMsGWA" name="Page-1">
     <mxGraphModel dx="934" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="9YKvACEuCcV3Z44-jCWN-6" value="用户是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="273" y="420" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9YKvACEuCcV3Z44-jCWN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="9YKvACEuCcV3Z44-jCWN-7" target="9YKvACEuCcV3Z44-jCWN-10">
+        <mxCell id="9YKvACEuCcV3Z44-jCWN-31" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="9YKvACEuCcV3Z44-jCWN-7" target="9YKvACEuCcV3Z44-jCWN-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9YKvACEuCcV3Z44-jCWN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.905;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="9YKvACEuCcV3Z44-jCWN-7" target="9YKvACEuCcV3Z44-jCWN-14">
@@ -97,7 +97,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="353" y="640" />
-              <mxPoint x="520" y="640" />
+              <mxPoint x="492" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,7 +118,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9YKvACEuCcV3Z44-jCWN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.683;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="9YKvACEuCcV3Z44-jCWN-11" target="9YKvACEuCcV3Z44-jCWN-14">
+        <mxCell id="9YKvACEuCcV3Z44-jCWN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.637;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="9YKvACEuCcV3Z44-jCWN-11" target="9YKvACEuCcV3Z44-jCWN-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9YKvACEuCcV3Z44-jCWN-40" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="9YKvACEuCcV3Z44-jCWN-39">
@@ -127,7 +127,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9YKvACEuCcV3Z44-jCWN-11" value="是否为微信生态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="670" width="160" height="70" as="geometry" />
+          <mxGeometry x="412" y="670" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9YKvACEuCcV3Z44-jCWN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="9YKvACEuCcV3Z44-jCWN-12" target="9YKvACEuCcV3Z44-jCWN-13">
           <mxGeometry relative="1" as="geometry" />
@@ -149,6 +149,12 @@
         </mxCell>
         <mxCell id="9YKvACEuCcV3Z44-jCWN-25" value="一键获取手机号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9YKvACEuCcV3Z44-jCWN-43" value="微信生态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9YKvACEuCcV3Z44-jCWN-44" value="主流程&amp;nbsp; App开始" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="429.5" y="140" width="107" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
