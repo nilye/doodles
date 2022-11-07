@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T15:24:26.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5wdZXpKEXKtPILUTJbbI" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-07T15:25:54.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Y77rT13WVY9LwvebWKqd" version="20.5.1" type="github" pages="2">
   <diagram id="xSAO6G4iO3-gwYTMsGWA" name="Page-1">
     <mxGraphModel dx="1169" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1DR0wzWXrbcCofm-jzrj-2" value="输入支付密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="160" width="120" height="50" as="geometry" />
+          <mxGeometry x="354" y="177" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1DR0wzWXrbcCofm-jzrj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1DR0wzWXrbcCofm-jzrj-3" target="1DR0wzWXrbcCofm-jzrj-7">
           <mxGeometry relative="1" as="geometry">
@@ -258,6 +258,9 @@
         </mxCell>
         <mxCell id="1DR0wzWXrbcCofm-jzrj-25" value="支付失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524.5" y="710" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1DR0wzWXrbcCofm-jzrj-29" value="发起支付流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="343" y="30" width="156" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
