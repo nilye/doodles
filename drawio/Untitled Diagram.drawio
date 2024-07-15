@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T09:28:35.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.4.13" etag="DKeoSeDQXUWYdUCeA_4s" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T09:45:36.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vSQS0ZBbbWqw9rplYIzl" version="24.4.13" type="github">
   <diagram name="Page-1" id="Y89-gl0UcrXUQfyGoqZt">
-    <mxGraphModel>
+    <mxGraphModel dx="839" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d9f_YaxyYMITgMxWafdc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d9f_YaxyYMITgMxWafdc-1" target="d9f_YaxyYMITgMxWafdc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d9f_YaxyYMITgMxWafdc-8" value="IN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d9f_YaxyYMITgMxWafdc-7">
+          <mxGeometry x="-0.16" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d9f_YaxyYMITgMxWafdc-1" value="PC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="d9f_YaxyYMITgMxWafdc-2" value="Router / Infranet" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d9f_YaxyYMITgMxWafdc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d9f_YaxyYMITgMxWafdc-3" target="d9f_YaxyYMITgMxWafdc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d9f_YaxyYMITgMxWafdc-3" value="Pie&lt;div&gt;MobileNet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d9f_YaxyYMITgMxWafdc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="d9f_YaxyYMITgMxWafdc-4" target="d9f_YaxyYMITgMxWafdc-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="350" />
+              <mxPoint x="470" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d9f_YaxyYMITgMxWafdc-9" value="OUT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d9f_YaxyYMITgMxWafdc-5">
+          <mxGeometry x="0.7" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d9f_YaxyYMITgMxWafdc-4" value="Pie&lt;div&gt;PoseNet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d9f_YaxyYMITgMxWafdc-10" value="Python Server &amp;amp; LLM" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d9f_YaxyYMITgMxWafdc-11" value="TouchDesigner" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d9f_YaxyYMITgMxWafdc-12" value="Projector" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" y="100" width="140" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
